@@ -265,7 +265,3 @@ TalentFlow can support recruitment-related activities in:
 Use sample or authorized resumes for development and testing. Resume documents may contain personal information, so avoid committing private candidate data, credentials, or sensitive configuration files to a public GitHub repository.
 
 Candidate matching and ranking are intended to assist recruiters and should not replace fair human review.
-
----
-
-**Note:** Verify the repository structure, build commands, configuration requirements, and implemented features against your actual source code before publishing this README.
